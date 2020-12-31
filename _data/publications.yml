@@ -1,0 +1,15 @@
+# Publication Template
+- layout: left
+  name: Segmentation of Left Ventricle in Short-Axis MR Images Based on Fully Convolutional Network and Active Contour Model
+  dates: 2020
+  quote: >
+    Tien Thanh Tran; Thi-Thao Tran; Quoc Cuong Ninh; Minh Duc Bui; Van-Truong Pham
+  # description: | # this will include new lines to allow paragraphs
+  #   Top 1 at Entrance Exam of Talent class.
+- layout: left
+  name: Skin Lesion Segmentation Based on Modification of SegNet Neural Networks
+  dates: 2019
+  quote: >
+    Quoc Cuong Ninh; Thi-Thao Tran; Tien Thanh Tran; Thi Anh Xuan Tran; Van-Truong Pham
+  # description: | # this will include new lines to allow paragraphs
+  #   Top 1 at Entrance Exam of Talent class.
