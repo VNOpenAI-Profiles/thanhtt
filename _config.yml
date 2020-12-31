@@ -1,18 +1,18 @@
 # Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+repository: VNOpenAI-Profiles/thanhtt
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
+name: Thanh Tran Tien
+title: Machine Learning Engineer
+email: trantienthanh081298@gmail.com
+phone: ""
 cv   : "resume.pdf"
-#website: Your website (eg. https://google.com)(optional)
+website: https://web.vnopenai.org/thanhtt/
 
 # Social links
 #twitter_username: jekyllrb
-github_username:  moya10
+github_username:  thanhtran98
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
@@ -25,15 +25,9 @@ github_username:  moya10
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
+  A Machine Learning Engineer with a focus on Computer Vision. I'm interested in both theoretical (mathematics) and applied ML (programming frameworks and techniques).
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
