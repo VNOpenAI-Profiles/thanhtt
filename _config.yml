@@ -3,7 +3,7 @@ repository: VNOpenAI-Profiles/thanhtt
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Thanh Tran Tien
+name: Thanh Tran-Tien
 title: Machine Learning Engineer
 email: trantienthanh081298@gmail.com
 # phone: null
@@ -28,6 +28,12 @@ github_username:  thanhtran98
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   A Machine Learning Engineer with a focus on Computer Vision. I'm interested in both theoretical (mathematics) and applied ML (programming frameworks and techniques).
+  
+  **My research includes:**
+
+    + Computer vision
+    + Medical image processing
+    + Applied machine learning
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -42,11 +48,9 @@ about_content: | # this will include new lines to allow paragraphs
 # publication_title: Publications
 
 # More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
+more_title: My Hobbies
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  In my free time, I love reading books and hanging out. I also participart in open source projects and do some DIY works. 
 
 # Footer
 footer_show_references: true

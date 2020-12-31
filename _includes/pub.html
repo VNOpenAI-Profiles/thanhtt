@@ -1,0 +1,5 @@
+<div class="row clearfix layout layout-left">
+    <a href="{{ include.item.link }}"><h4 style="font-size: 2rem; font-weight: bold">{{ include.item.name }}</h4></a>
+    <p><b><i>{{ include.item.authors | strip | markdownify }}</i></b></p>
+    <p>{{ include.item.description | strip | markdownify }}</p>
+</div>

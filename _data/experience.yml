@@ -5,16 +5,16 @@
   job_title: Intern
   dates: 07/2019-09/2019
   quote: >
-    Short description of the company (optional)
+    Engineering intern
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Works on control engineering and electrical engineering projects.
 - layout: left
   company: Iwana Technology
   link: https://www.iwannatech.com/
   job_title: Intern
   dates: 09/2019-04/2020
   quote: >
-   Short description of the company (optional)
+    Research intern
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    Research computer vision algorithms and intergrate them into products.
 

@@ -1,15 +1,14 @@
 # Publication Template
-- layout: left
+- layout: pub
   name: Segmentation of Left Ventricle in Short-Axis MR Images Based on Fully Convolutional Network and Active Contour Model
+  link: https://link.springer.com/chapter/10.1007/978-3-030-62324-1_5
+  authors: Tien Thanh Tran; Thi-Thao Tran; Quoc Cuong Ninh; Minh Duc Bui; Van-Truong Pham
   dates: 2020
-  quote: >
-    Tien Thanh Tran; Thi-Thao Tran; Quoc Cuong Ninh; Minh Duc Bui; Van-Truong Pham
-  # description: | # this will include new lines to allow paragraphs
-  #   Top 1 at Entrance Exam of Talent class.
-- layout: left
+  description: "GTSD 2020: Computational Intelligence Methods for Green Technology and Sustainable Development pp 49-59"
+  
+- layout: pub
   name: Skin Lesion Segmentation Based on Modification of SegNet Neural Networks
+  link: https://ieeexplore.ieee.org/document/9023862
+  authors: Quoc Cuong Ninh; Thi-Thao Tran; Tien Thanh Tran; Thi Anh Xuan Tran; Van-Truong Pham
   dates: 2019
-  quote: >
-    Quoc Cuong Ninh; Thi-Thao Tran; Tien Thanh Tran; Thi Anh Xuan Tran; Van-Truong Pham
-  # description: | # this will include new lines to allow paragraphs
-  #   Top 1 at Entrance Exam of Talent class.
+  description: "2019 6th NAFOSTED Conference on Information and Computer Science (NICS)"

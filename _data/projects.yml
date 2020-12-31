@@ -1,5 +1,5 @@
 # Project template
-- layout: top-middle
+- layout: left
   name: Pushup Counter
   link: 
   github: https://github.com/VNOpenAI/pushup-counter-app
