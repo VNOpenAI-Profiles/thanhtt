@@ -1,5 +1,5 @@
 # Experience template
-- layout: left
+- layout: right
   company: A.N.lab
   link: https://anlab.vn/
   job_title: Intern
@@ -8,7 +8,7 @@
     Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Description of role
-- layout: left
+- layout: right
   company: Iwana Technology
   link: https://www.iwannatech.com/
   job_title: Intern

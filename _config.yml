@@ -6,7 +6,7 @@ repository: VNOpenAI-Profiles/thanhtt
 name: Thanh Tran Tien
 title: Machine Learning Engineer
 email: trantienthanh081298@gmail.com
-phone: ""
+# phone: null
 cv   : "resume.pdf"
 website: https://web.vnopenai.org/thanhtt/
 
