@@ -205,10 +205,4 @@ p.quote {
   // font-style: italic;
   // padding: 1em 2.5em;
   text-align: left;
-
-  @media print {
-    text-align: left;
-    padding: 0em 1em;
-    margin-top: 1em;
-  }
 }
